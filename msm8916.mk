@@ -82,8 +82,8 @@ PRODUCT_PACKAGES += \
     Snap
 
 # CMActions
-# PRODUCT_PACKAGES += \
-#    CMActions
+PRODUCT_PACKAGES += \
+    CMActions
 
 # Display
 PRODUCT_PACKAGES += \
